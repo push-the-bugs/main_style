@@ -502,9 +502,9 @@ body[data-locale=ru] .b-offtopic_marker:before, .b-anime_status_tag.offtopic:bef
     color: rgba(var(--light-color), var(--hundred)) !important;
 }
 
-.p-profiles header.head .misc span, .p-profiles header.head .misc a {
+/*.p-profiles header.head .misc span, .p-profiles header.head .misc a {
     font-family: 'Comfortaa', sans-serif;
-}
+}*/
 
 .buttons > div {
     margin-right: 20px;
