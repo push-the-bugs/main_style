@@ -2045,10 +2045,10 @@ body#dialogs_show .b-topic > .editor-container {
     margin-top: 0;
 }
 
-.p-profiles .profile-head .c-brief {
+.p-profiles .profile-head {
 }
 
-.p-profiles .profile-head .c-brief header.head {
+.p-profiles .profile-head  {
     position: absolute;
     left: -3px;
     text-align: center;
