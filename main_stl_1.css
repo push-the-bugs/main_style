@@ -2048,7 +2048,7 @@ body#dialogs_show .b-topic > .editor-container {
 .p-profiles .profile-head .c-brief {
 }
 
-.p-profiles .profile-head .c-brief header.head .misc {
+/*.p-profiles .profile-head .c-brief header.head .misc {
     position: absolute;
     left: -3px;
     text-align: center;
@@ -2057,7 +2057,7 @@ body#dialogs_show .b-topic > .editor-container {
     padding: 0 24px;
     color: rgba(var(--hover-color), var(--hundred)) !important;
     z-index: 1;
-}
+}*/
 
 /*.p-profiles .profile-head .c-brief header.head {
     context: "for why?"
