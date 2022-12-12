@@ -1569,9 +1569,9 @@ body#topics_index .b-collection_search .b-catalog_entry {
     color: #bfdeda;
 }
 
-header.head h1 a.back, header.head h2 a.back {
+/*header.head h1 a.back, header.head h2 a.back {
     color: rgba(var(--bright-color), var(--hundred));
-}
+}*/
 
 .b-message .b-catalog_entry:hover, .l-content.swiss .b-catalog_entry:hover, .b-catalog-entry-embedded .b-catalog_entry:hover, .b-message .b-catalog_entry, .l-content.swiss .b-catalog_entry, .b-catalog-entry-embedded .b-catalog_entry {
     background: transparent !important;
@@ -1726,9 +1726,9 @@ body#profiles_show .subheadline {
     box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.3);
 }
 
-header.head p.notice span {
+/*header.head p.notice span {
     background: transparent !important;
-}
+}*/
 
 body#profiles_show .l-page {
     padding: 0 !important;
