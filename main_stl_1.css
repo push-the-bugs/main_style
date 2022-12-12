@@ -2059,7 +2059,7 @@ body#dialogs_show .b-topic > .editor-container {
     z-index: 1;
 }
 
-.p-profiles .profile-head .c-brief header.head {
+/*.p-profiles .profile-head .c-brief header.head {
     border-radius: 15px 15px 0 0;
 
     white-space: normal;
@@ -2072,7 +2072,7 @@ body#dialogs_show .b-topic > .editor-container {
 
 .b-topic-minified > .inner .status-line time, .b-topic-minified > .inner .status-line .from {
     color: rgba(var(--dark-color), var(--hundred));
-}
+}*/
 
 .b-height_shortener .expand:after {
     content: "далее" !important;
