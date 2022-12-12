@@ -2062,7 +2062,7 @@ body#dialogs_show .b-topic > .editor-container {
 }
 
 .p-profiles .profile-head .c-brief header.head {
-    content: "for why?"
+    context: "for why?"
     border-radius: 15px 15px 0 0;
 
     white-space: normal;
