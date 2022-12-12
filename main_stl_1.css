@@ -2045,7 +2045,7 @@ body#dialogs_show .b-topic > .editor-container {
     margin-top: 0;
 }
 
-.p-profiles .profile-head .c-brief {
+/*.p-profiles .profile-head .c-brief {
 }
 
 .p-profiles .profile-head .c-brief header.head {
@@ -2057,7 +2057,7 @@ body#dialogs_show .b-topic > .editor-container {
     padding: 0 24px;
     color: rgba(var(--hover-color), var(--hundred)) !important;
     z-index: 1;
-}
+}*/
 
 /*.p-profiles .profile-head .c-brief header.head {
     border-radius: 15px 15px 0 0;
