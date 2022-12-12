@@ -2045,10 +2045,10 @@ body#dialogs_show .b-topic > .editor-container {
     margin-top: 0;
 }
 
-/*.p-profiles .profile-head .c-brief {
+.p-profiles .profile-head .c-brief {
 }
 
-/*.p-profiles .profile-head .c-brief header.head .misc {
+.p-profiles .profile-head .c-brief header.head {
     position: absolute;
     left: -3px;
     text-align: center;
@@ -2059,13 +2059,12 @@ body#dialogs_show .b-topic > .editor-container {
     z-index: 1;
 }
 
-/*.p-profiles .profile-head .c-brief header.head {
-    context: "for why?"
+.p-profiles .profile-head .c-brief header.head {
     border-radius: 15px 15px 0 0;
 
     white-space: normal;
     width: 100%;
-}*/
+}
 
 .body-truncated {
     color: rgba(var(--light-color), var(--hundred));
