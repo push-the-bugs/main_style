@@ -1214,8 +1214,8 @@ tr.user_rate.selectable.editable:after {
     display: none;
 }
 
-.c-brief header.head .notice,
-.c-brief header.head .misc,
+/*.c-brief header.head .notice,
+.c-brief header.head .misc,*/
 .c-brief header.head a.edit,
 .p-profiles .profile-head .c-info .c-additionals b,
 
