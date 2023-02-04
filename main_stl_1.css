@@ -861,22 +861,7 @@ a:hover .title span {
 
 /* под списком кол-во просмотреных прочитанных и т.д. */
 .b-stats_bar .stat_names .stat_name a:hover {
-    right: 0px;
-    top: 0px;
-    background: #a92661;
-    border-radius: 50%;
-    height: 90px;
-    width: 90px;
-    text-align: center;
-    color: #daead9;
-    border: 3px solid rgba(24, 53, 22, 0.3);
-    box-shadow: 0 2px 6px 3px rgb(0 0 0 / 20%) !important;
-    position: absolute;
-    margin-right: -80px;
-    z-index: 20;
-    text-align: center;
-    transition: 0.2s ease;
-    /*color: rgba(var(--hover-color), 1);*/
+    color: rgba(var(--hover-color), 1);
 }
 
 .b-animes-menu .total-rates {
